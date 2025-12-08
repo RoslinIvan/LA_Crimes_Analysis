@@ -1,5 +1,5 @@
 # Projet_UA3_Analyse_de_donn-es
-## Projet: Lutte contre la criminalité
+## Titre: Lutte contre la criminalité
 
 ### Introduction   
 Le jeu de données étudié contient près d’un million d’enregistrements relatifs aux incidents criminels signalés par la police. Chaque ligne correspond à un incident unique, identifié par un numéro d’enregistrement. Les variables couvrent différents aspects : la temporalité des événements, leur localisation géographique, les caractéristiques du crime et de la victime, ainsi que des informations administratives liées au traitement de l’affaire.
