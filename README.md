@@ -1,4 +1,3 @@
-# Projet_UA3_Analyse_de_donn-es
 ## Titre: Lutte contre la criminalité
 
 ### Introduction   
